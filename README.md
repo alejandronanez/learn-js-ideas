@@ -8,3 +8,4 @@ Brain Storming about exercises to practice Javascript
 - Consume data form an API on demand
 - Clients list (Add clients / Remove Clients) LocalStorage
 - Clients list (Add clients / Remove Clients) using an API
+- Geolocation API
